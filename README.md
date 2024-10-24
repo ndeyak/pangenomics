@@ -1,2 +1,1 @@
-# pangenomics
-Working with Pangenome Graphs
+# Working with Pangenome Graphs
