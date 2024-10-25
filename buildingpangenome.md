@@ -1,4 +1,4 @@
-# Working with Pangenome Graphs
+# Building Pangenome Graphs
 
 
 # Links
