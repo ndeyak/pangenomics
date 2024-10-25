@@ -1,10 +1,6 @@
 # Working with Pangenome Graphs
 
 
-
-## Sequencing Data Types
-
-
 # Links
 https://github.com/Mo7ammedFarahat/LinearVSGraph
 https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md#quick-start <---- Doing this tutorial right now
