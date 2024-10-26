@@ -1,1 +1,1 @@
-To be filled in later
+Welcome to my journey into genomics.
